@@ -1,0 +1,18 @@
+# Copy to .Renviron.local (gitignored) and edit; scripts/_setup.R reads it.
+
+# Where the input data and cached intermediates live
+# (defaults: 01-InputData and 02-DataAnalysis in the project root).
+# TOLDC_INPUT_DIR=/path/to/01-InputData
+# TOLDC_ANALYSIS_DIR=/path/to/02-DataAnalysis
+
+# Only needed with --recompute: biomaRt Ensembl -> gene symbol map (.Rdata
+# holding a data.frame `geneMap` with Ensembl-ID row names and an
+# `external_gene_name` column).
+TOLDC_BIOMART_GENEMAP_PATH=
+
+# Lin et al. 2020 (GEO GSE154778): directory with one 10x sub-directory per
+# patient, and the sample sheet (columns Patient, ID, Type, Site, Age,
+# Gender, Stage, Grade). Not needed once 02-DataAnalysis/Han2020_PDAmet.Rdata
+# exists.
+TOLDC_LIN2020_DIR=
+TOLDC_LIN2020_META=

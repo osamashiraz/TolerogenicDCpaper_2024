@@ -1,0 +1,1198 @@
+sample	cell_type	Freq
+GSE111672_PDAC_A	B_mem cell	2
+GSE111672_PDAC_B	B_mem cell	1
+GSM4293555	B_mem cell	14
+P01	B_mem cell	0
+P02	B_mem cell	1
+P03	B_mem cell	0
+P05	B_mem cell	0
+P06	B_mem cell	2
+P07	B_mem cell	2
+P08	B_mem cell	1
+P09	B_mem cell	0
+P10	B_mem cell	1
+PDAC_TISSUE_1	B_mem cell	5
+PDAC_TISSUE_10	B_mem cell	26
+PDAC_TISSUE_11A	B_mem cell	60
+PDAC_TISSUE_11B	B_mem cell	26
+PDAC_TISSUE_12	B_mem cell	29
+PDAC_TISSUE_13	B_mem cell	14
+PDAC_TISSUE_14	B_mem cell	17
+PDAC_TISSUE_15	B_mem cell	27
+PDAC_TISSUE_16	B_mem cell	4
+PDAC_TISSUE_2	B_mem cell	3
+PDAC_TISSUE_3	B_mem cell	84
+PDAC_TISSUE_4	B_mem cell	30
+PDAC_TISSUE_5	B_mem cell	12
+PDAC_TISSUE_6	B_mem cell	208
+PDAC_TISSUE_7	B_mem cell	77
+PDAC_TISSUE_8	B_mem cell	86
+PDAC_TISSUE_9	B_mem cell	10
+pk201127	B_mem cell	182
+pk210128	B_mem cell	1296
+pk210216	B_mem cell	253
+pk210318	B_mem cell	109
+T1	B_mem cell	12
+T10	B_mem cell	61
+T11	B_mem cell	5
+T12	B_mem cell	214
+T13	B_mem cell	7
+T14	B_mem cell	2
+T15	B_mem cell	126
+T16	B_mem cell	10
+T17	B_mem cell	6
+T18	B_mem cell	1
+T19	B_mem cell	4
+T2	B_mem cell	736
+T20	B_mem cell	0
+T21	B_mem cell	24
+T22	B_mem cell	152
+T23	B_mem cell	76
+T24	B_mem cell	2
+T3	B_mem cell	13
+T4	B_mem cell	66
+T5	B_mem cell	0
+T6	B_mem cell	11
+T7	B_mem cell	2
+T8	B_mem cell	12
+T9	B_mem cell	3
+GSE111672_PDAC_A	B_naive cell	6
+GSE111672_PDAC_B	B_naive cell	0
+GSM4293555	B_naive cell	0
+P01	B_naive cell	0
+P02	B_naive cell	0
+P03	B_naive cell	0
+P05	B_naive cell	0
+P06	B_naive cell	0
+P07	B_naive cell	5
+P08	B_naive cell	0
+P09	B_naive cell	0
+P10	B_naive cell	0
+PDAC_TISSUE_1	B_naive cell	9
+PDAC_TISSUE_10	B_naive cell	25
+PDAC_TISSUE_11A	B_naive cell	0
+PDAC_TISSUE_11B	B_naive cell	7
+PDAC_TISSUE_12	B_naive cell	2
+PDAC_TISSUE_13	B_naive cell	8
+PDAC_TISSUE_14	B_naive cell	16
+PDAC_TISSUE_15	B_naive cell	3
+PDAC_TISSUE_16	B_naive cell	2
+PDAC_TISSUE_2	B_naive cell	2
+PDAC_TISSUE_3	B_naive cell	76
+PDAC_TISSUE_4	B_naive cell	9
+PDAC_TISSUE_5	B_naive cell	2
+PDAC_TISSUE_6	B_naive cell	197
+PDAC_TISSUE_7	B_naive cell	16
+PDAC_TISSUE_8	B_naive cell	43
+PDAC_TISSUE_9	B_naive cell	19
+pk201127	B_naive cell	304
+pk210128	B_naive cell	190
+pk210216	B_naive cell	42
+pk210318	B_naive cell	34
+T1	B_naive cell	8
+T10	B_naive cell	64
+T11	B_naive cell	1
+T12	B_naive cell	379
+T13	B_naive cell	7
+T14	B_naive cell	0
+T15	B_naive cell	43
+T16	B_naive cell	7
+T17	B_naive cell	10
+T18	B_naive cell	0
+T19	B_naive cell	5
+T2	B_naive cell	372
+T20	B_naive cell	0
+T21	B_naive cell	5
+T22	B_naive cell	80
+T23	B_naive cell	43
+T24	B_naive cell	0
+T3	B_naive cell	7
+T4	B_naive cell	10
+T5	B_naive cell	1
+T6	B_naive cell	0
+T7	B_naive cell	0
+T8	B_naive cell	0
+T9	B_naive cell	0
+GSE111672_PDAC_A	CD141+ mDC_1	1
+GSE111672_PDAC_B	CD141+ mDC_1	0
+GSM4293555	CD141+ mDC_1	2
+P01	CD141+ mDC_1	0
+P02	CD141+ mDC_1	0
+P03	CD141+ mDC_1	0
+P05	CD141+ mDC_1	2
+P06	CD141+ mDC_1	0
+P07	CD141+ mDC_1	6
+P08	CD141+ mDC_1	1
+P09	CD141+ mDC_1	3
+P10	CD141+ mDC_1	4
+PDAC_TISSUE_1	CD141+ mDC_1	0
+PDAC_TISSUE_10	CD141+ mDC_1	2
+PDAC_TISSUE_11A	CD141+ mDC_1	3
+PDAC_TISSUE_11B	CD141+ mDC_1	0
+PDAC_TISSUE_12	CD141+ mDC_1	0
+PDAC_TISSUE_13	CD141+ mDC_1	7
+PDAC_TISSUE_14	CD141+ mDC_1	0
+PDAC_TISSUE_15	CD141+ mDC_1	6
+PDAC_TISSUE_16	CD141+ mDC_1	0
+PDAC_TISSUE_2	CD141+ mDC_1	2
+PDAC_TISSUE_3	CD141+ mDC_1	0
+PDAC_TISSUE_4	CD141+ mDC_1	1
+PDAC_TISSUE_5	CD141+ mDC_1	2
+PDAC_TISSUE_6	CD141+ mDC_1	2
+PDAC_TISSUE_7	CD141+ mDC_1	13
+PDAC_TISSUE_8	CD141+ mDC_1	17
+PDAC_TISSUE_9	CD141+ mDC_1	1
+pk201127	CD141+ mDC_1	3
+pk210128	CD141+ mDC_1	8
+pk210216	CD141+ mDC_1	0
+pk210318	CD141+ mDC_1	1
+T1	CD141+ mDC_1	1
+T10	CD141+ mDC_1	2
+T11	CD141+ mDC_1	2
+T12	CD141+ mDC_1	0
+T13	CD141+ mDC_1	0
+T14	CD141+ mDC_1	0
+T15	CD141+ mDC_1	4
+T16	CD141+ mDC_1	3
+T17	CD141+ mDC_1	2
+T18	CD141+ mDC_1	1
+T19	CD141+ mDC_1	0
+T2	CD141+ mDC_1	3
+T20	CD141+ mDC_1	0
+T21	CD141+ mDC_1	0
+T22	CD141+ mDC_1	18
+T23	CD141+ mDC_1	5
+T24	CD141+ mDC_1	0
+T3	CD141+ mDC_1	3
+T4	CD141+ mDC_1	3
+T5	CD141+ mDC_1	1
+T6	CD141+ mDC_1	1
+T7	CD141+ mDC_1	0
+T8	CD141+ mDC_1	1
+T9	CD141+ mDC_1	0
+GSE111672_PDAC_A	CD141+ mDC_2	0
+GSE111672_PDAC_B	CD141+ mDC_2	0
+GSM4293555	CD141+ mDC_2	0
+P01	CD141+ mDC_2	0
+P02	CD141+ mDC_2	0
+P03	CD141+ mDC_2	0
+P05	CD141+ mDC_2	0
+P06	CD141+ mDC_2	1
+P07	CD141+ mDC_2	6
+P08	CD141+ mDC_2	0
+P09	CD141+ mDC_2	0
+P10	CD141+ mDC_2	0
+PDAC_TISSUE_1	CD141+ mDC_2	0
+PDAC_TISSUE_10	CD141+ mDC_2	3
+PDAC_TISSUE_11A	CD141+ mDC_2	0
+PDAC_TISSUE_11B	CD141+ mDC_2	2
+PDAC_TISSUE_12	CD141+ mDC_2	2
+PDAC_TISSUE_13	CD141+ mDC_2	1
+PDAC_TISSUE_14	CD141+ mDC_2	1
+PDAC_TISSUE_15	CD141+ mDC_2	1
+PDAC_TISSUE_16	CD141+ mDC_2	1
+PDAC_TISSUE_2	CD141+ mDC_2	0
+PDAC_TISSUE_3	CD141+ mDC_2	1
+PDAC_TISSUE_4	CD141+ mDC_2	0
+PDAC_TISSUE_5	CD141+ mDC_2	0
+PDAC_TISSUE_6	CD141+ mDC_2	1
+PDAC_TISSUE_7	CD141+ mDC_2	20
+PDAC_TISSUE_8	CD141+ mDC_2	43
+PDAC_TISSUE_9	CD141+ mDC_2	3
+pk201127	CD141+ mDC_2	0
+pk210128	CD141+ mDC_2	0
+pk210216	CD141+ mDC_2	0
+pk210318	CD141+ mDC_2	0
+T1	CD141+ mDC_2	0
+T10	CD141+ mDC_2	0
+T11	CD141+ mDC_2	1
+T12	CD141+ mDC_2	0
+T13	CD141+ mDC_2	0
+T14	CD141+ mDC_2	0
+T15	CD141+ mDC_2	1
+T16	CD141+ mDC_2	1
+T17	CD141+ mDC_2	2
+T18	CD141+ mDC_2	0
+T19	CD141+ mDC_2	3
+T2	CD141+ mDC_2	7
+T20	CD141+ mDC_2	0
+T21	CD141+ mDC_2	0
+T22	CD141+ mDC_2	0
+T23	CD141+ mDC_2	6
+T24	CD141+ mDC_2	1
+T3	CD141+ mDC_2	0
+T4	CD141+ mDC_2	2
+T5	CD141+ mDC_2	1
+T6	CD141+ mDC_2	0
+T7	CD141+ mDC_2	0
+T8	CD141+ mDC_2	1
+T9	CD141+ mDC_2	0
+GSE111672_PDAC_A	CD141+ mDC_3	14
+GSE111672_PDAC_B	CD141+ mDC_3	9
+GSM4293555	CD141+ mDC_3	88
+P01	CD141+ mDC_3	2
+P02	CD141+ mDC_3	5
+P03	CD141+ mDC_3	0
+P05	CD141+ mDC_3	11
+P06	CD141+ mDC_3	7
+P07	CD141+ mDC_3	133
+P08	CD141+ mDC_3	5
+P09	CD141+ mDC_3	61
+P10	CD141+ mDC_3	27
+PDAC_TISSUE_1	CD141+ mDC_3	2
+PDAC_TISSUE_10	CD141+ mDC_3	2
+PDAC_TISSUE_11A	CD141+ mDC_3	14
+PDAC_TISSUE_11B	CD141+ mDC_3	5
+PDAC_TISSUE_12	CD141+ mDC_3	14
+PDAC_TISSUE_13	CD141+ mDC_3	86
+PDAC_TISSUE_14	CD141+ mDC_3	0
+PDAC_TISSUE_15	CD141+ mDC_3	28
+PDAC_TISSUE_16	CD141+ mDC_3	2
+PDAC_TISSUE_2	CD141+ mDC_3	11
+PDAC_TISSUE_3	CD141+ mDC_3	2
+PDAC_TISSUE_4	CD141+ mDC_3	17
+PDAC_TISSUE_5	CD141+ mDC_3	8
+PDAC_TISSUE_6	CD141+ mDC_3	6
+PDAC_TISSUE_7	CD141+ mDC_3	104
+PDAC_TISSUE_8	CD141+ mDC_3	26
+PDAC_TISSUE_9	CD141+ mDC_3	5
+pk201127	CD141+ mDC_3	0
+pk210128	CD141+ mDC_3	35
+pk210216	CD141+ mDC_3	0
+pk210318	CD141+ mDC_3	1
+T1	CD141+ mDC_3	27
+T10	CD141+ mDC_3	12
+T11	CD141+ mDC_3	70
+T12	CD141+ mDC_3	33
+T13	CD141+ mDC_3	91
+T14	CD141+ mDC_3	7
+T15	CD141+ mDC_3	12
+T16	CD141+ mDC_3	27
+T17	CD141+ mDC_3	6
+T18	CD141+ mDC_3	1
+T19	CD141+ mDC_3	64
+T2	CD141+ mDC_3	53
+T20	CD141+ mDC_3	4
+T21	CD141+ mDC_3	22
+T22	CD141+ mDC_3	32
+T23	CD141+ mDC_3	43
+T24	CD141+ mDC_3	24
+T3	CD141+ mDC_3	29
+T4	CD141+ mDC_3	15
+T5	CD141+ mDC_3	74
+T6	CD141+ mDC_3	100
+T7	CD141+ mDC_3	12
+T8	CD141+ mDC_3	11
+T9	CD141+ mDC_3	34
+GSE111672_PDAC_A	CD4+ T_mem cell	2
+GSE111672_PDAC_B	CD4+ T_mem cell	0
+GSM4293555	CD4+ T_mem cell	103
+P01	CD4+ T_mem cell	0
+P02	CD4+ T_mem cell	0
+P03	CD4+ T_mem cell	0
+P05	CD4+ T_mem cell	1
+P06	CD4+ T_mem cell	1
+P07	CD4+ T_mem cell	1
+P08	CD4+ T_mem cell	0
+P09	CD4+ T_mem cell	0
+P10	CD4+ T_mem cell	0
+PDAC_TISSUE_1	CD4+ T_mem cell	6
+PDAC_TISSUE_10	CD4+ T_mem cell	135
+PDAC_TISSUE_11A	CD4+ T_mem cell	23
+PDAC_TISSUE_11B	CD4+ T_mem cell	9
+PDAC_TISSUE_12	CD4+ T_mem cell	11
+PDAC_TISSUE_13	CD4+ T_mem cell	85
+PDAC_TISSUE_14	CD4+ T_mem cell	9
+PDAC_TISSUE_15	CD4+ T_mem cell	21
+PDAC_TISSUE_16	CD4+ T_mem cell	17
+PDAC_TISSUE_2	CD4+ T_mem cell	9
+PDAC_TISSUE_3	CD4+ T_mem cell	38
+PDAC_TISSUE_4	CD4+ T_mem cell	27
+PDAC_TISSUE_5	CD4+ T_mem cell	7
+PDAC_TISSUE_6	CD4+ T_mem cell	38
+PDAC_TISSUE_7	CD4+ T_mem cell	236
+PDAC_TISSUE_8	CD4+ T_mem cell	290
+PDAC_TISSUE_9	CD4+ T_mem cell	9
+pk201127	CD4+ T_mem cell	86
+pk210128	CD4+ T_mem cell	861
+pk210216	CD4+ T_mem cell	226
+pk210318	CD4+ T_mem cell	157
+T1	CD4+ T_mem cell	4
+T10	CD4+ T_mem cell	7
+T11	CD4+ T_mem cell	5
+T12	CD4+ T_mem cell	3
+T13	CD4+ T_mem cell	2
+T14	CD4+ T_mem cell	0
+T15	CD4+ T_mem cell	2
+T16	CD4+ T_mem cell	4
+T17	CD4+ T_mem cell	1
+T18	CD4+ T_mem cell	0
+T19	CD4+ T_mem cell	1
+T2	CD4+ T_mem cell	15
+T20	CD4+ T_mem cell	2
+T21	CD4+ T_mem cell	1
+T22	CD4+ T_mem cell	6
+T23	CD4+ T_mem cell	9
+T24	CD4+ T_mem cell	0
+T3	CD4+ T_mem cell	3
+T4	CD4+ T_mem cell	1
+T5	CD4+ T_mem cell	1
+T6	CD4+ T_mem cell	0
+T7	CD4+ T_mem cell	0
+T8	CD4+ T_mem cell	0
+T9	CD4+ T_mem cell	0
+GSE111672_PDAC_A	CD4+ T_naive cell	6
+GSE111672_PDAC_B	CD4+ T_naive cell	4
+GSM4293555	CD4+ T_naive cell	503
+P01	CD4+ T_naive cell	1
+P02	CD4+ T_naive cell	40
+P03	CD4+ T_naive cell	0
+P05	CD4+ T_naive cell	13
+P06	CD4+ T_naive cell	3
+P07	CD4+ T_naive cell	26
+P08	CD4+ T_naive cell	1
+P09	CD4+ T_naive cell	3
+P10	CD4+ T_naive cell	0
+PDAC_TISSUE_1	CD4+ T_naive cell	98
+PDAC_TISSUE_10	CD4+ T_naive cell	117
+PDAC_TISSUE_11A	CD4+ T_naive cell	105
+PDAC_TISSUE_11B	CD4+ T_naive cell	166
+PDAC_TISSUE_12	CD4+ T_naive cell	125
+PDAC_TISSUE_13	CD4+ T_naive cell	331
+PDAC_TISSUE_14	CD4+ T_naive cell	316
+PDAC_TISSUE_15	CD4+ T_naive cell	453
+PDAC_TISSUE_16	CD4+ T_naive cell	12
+PDAC_TISSUE_2	CD4+ T_naive cell	31
+PDAC_TISSUE_3	CD4+ T_naive cell	492
+PDAC_TISSUE_4	CD4+ T_naive cell	285
+PDAC_TISSUE_5	CD4+ T_naive cell	68
+PDAC_TISSUE_6	CD4+ T_naive cell	234
+PDAC_TISSUE_7	CD4+ T_naive cell	796
+PDAC_TISSUE_8	CD4+ T_naive cell	224
+PDAC_TISSUE_9	CD4+ T_naive cell	268
+pk201127	CD4+ T_naive cell	217
+pk210128	CD4+ T_naive cell	609
+pk210216	CD4+ T_naive cell	504
+pk210318	CD4+ T_naive cell	425
+T1	CD4+ T_naive cell	25
+T10	CD4+ T_naive cell	46
+T11	CD4+ T_naive cell	36
+T12	CD4+ T_naive cell	234
+T13	CD4+ T_naive cell	8
+T14	CD4+ T_naive cell	3
+T15	CD4+ T_naive cell	65
+T16	CD4+ T_naive cell	4
+T17	CD4+ T_naive cell	3
+T18	CD4+ T_naive cell	0
+T19	CD4+ T_naive cell	19
+T2	CD4+ T_naive cell	444
+T20	CD4+ T_naive cell	1
+T21	CD4+ T_naive cell	30
+T22	CD4+ T_naive cell	385
+T23	CD4+ T_naive cell	88
+T24	CD4+ T_naive cell	23
+T3	CD4+ T_naive cell	13
+T4	CD4+ T_naive cell	106
+T5	CD4+ T_naive cell	22
+T6	CD4+ T_naive cell	2
+T7	CD4+ T_naive cell	6
+T8	CD4+ T_naive cell	0
+T9	CD4+ T_naive cell	1
+GSE111672_PDAC_A	CD8+ T cell	0
+GSE111672_PDAC_B	CD8+ T cell	2
+GSM4293555	CD8+ T cell	1
+P01	CD8+ T cell	0
+P02	CD8+ T cell	0
+P03	CD8+ T cell	0
+P05	CD8+ T cell	0
+P06	CD8+ T cell	0
+P07	CD8+ T cell	7
+P08	CD8+ T cell	1
+P09	CD8+ T cell	0
+P10	CD8+ T cell	0
+PDAC_TISSUE_1	CD8+ T cell	1
+PDAC_TISSUE_10	CD8+ T cell	2
+PDAC_TISSUE_11A	CD8+ T cell	0
+PDAC_TISSUE_11B	CD8+ T cell	3
+PDAC_TISSUE_12	CD8+ T cell	2
+PDAC_TISSUE_13	CD8+ T cell	5
+PDAC_TISSUE_14	CD8+ T cell	1
+PDAC_TISSUE_15	CD8+ T cell	4
+PDAC_TISSUE_16	CD8+ T cell	1
+PDAC_TISSUE_2	CD8+ T cell	1
+PDAC_TISSUE_3	CD8+ T cell	3
+PDAC_TISSUE_4	CD8+ T cell	6
+PDAC_TISSUE_5	CD8+ T cell	1
+PDAC_TISSUE_6	CD8+ T cell	0
+PDAC_TISSUE_7	CD8+ T cell	13
+PDAC_TISSUE_8	CD8+ T cell	13
+PDAC_TISSUE_9	CD8+ T cell	4
+pk201127	CD8+ T cell	0
+pk210128	CD8+ T cell	3
+pk210216	CD8+ T cell	0
+pk210318	CD8+ T cell	0
+T1	CD8+ T cell	1
+T10	CD8+ T cell	0
+T11	CD8+ T cell	4
+T12	CD8+ T cell	15
+T13	CD8+ T cell	3
+T14	CD8+ T cell	0
+T15	CD8+ T cell	5
+T16	CD8+ T cell	1
+T17	CD8+ T cell	0
+T18	CD8+ T cell	1
+T19	CD8+ T cell	6
+T2	CD8+ T cell	11
+T20	CD8+ T cell	2
+T21	CD8+ T cell	2
+T22	CD8+ T cell	1
+T23	CD8+ T cell	9
+T24	CD8+ T cell	3
+T3	CD8+ T cell	2
+T4	CD8+ T cell	3
+T5	CD8+ T cell	3
+T6	CD8+ T cell	5
+T7	CD8+ T cell	0
+T8	CD8+ T cell	3
+T9	CD8+ T cell	2
+GSE111672_PDAC_A	CD8+ T_mem cell	9
+GSE111672_PDAC_B	CD8+ T_mem cell	5
+GSM4293555	CD8+ T_mem cell	291
+P01	CD8+ T_mem cell	5
+P02	CD8+ T_mem cell	5
+P03	CD8+ T_mem cell	0
+P05	CD8+ T_mem cell	0
+P06	CD8+ T_mem cell	0
+P07	CD8+ T_mem cell	11
+P08	CD8+ T_mem cell	2
+P09	CD8+ T_mem cell	0
+P10	CD8+ T_mem cell	0
+PDAC_TISSUE_1	CD8+ T_mem cell	55
+PDAC_TISSUE_10	CD8+ T_mem cell	222
+PDAC_TISSUE_11A	CD8+ T_mem cell	45
+PDAC_TISSUE_11B	CD8+ T_mem cell	27
+PDAC_TISSUE_12	CD8+ T_mem cell	70
+PDAC_TISSUE_13	CD8+ T_mem cell	162
+PDAC_TISSUE_14	CD8+ T_mem cell	46
+PDAC_TISSUE_15	CD8+ T_mem cell	208
+PDAC_TISSUE_16	CD8+ T_mem cell	7
+PDAC_TISSUE_2	CD8+ T_mem cell	45
+PDAC_TISSUE_3	CD8+ T_mem cell	244
+PDAC_TISSUE_4	CD8+ T_mem cell	170
+PDAC_TISSUE_5	CD8+ T_mem cell	37
+PDAC_TISSUE_6	CD8+ T_mem cell	216
+PDAC_TISSUE_7	CD8+ T_mem cell	494
+PDAC_TISSUE_8	CD8+ T_mem cell	766
+PDAC_TISSUE_9	CD8+ T_mem cell	97
+pk201127	CD8+ T_mem cell	180
+pk210128	CD8+ T_mem cell	1146
+pk210216	CD8+ T_mem cell	212
+pk210318	CD8+ T_mem cell	227
+T1	CD8+ T_mem cell	7
+T10	CD8+ T_mem cell	25
+T11	CD8+ T_mem cell	11
+T12	CD8+ T_mem cell	42
+T13	CD8+ T_mem cell	5
+T14	CD8+ T_mem cell	1
+T15	CD8+ T_mem cell	9
+T16	CD8+ T_mem cell	1
+T17	CD8+ T_mem cell	0
+T18	CD8+ T_mem cell	1
+T19	CD8+ T_mem cell	19
+T2	CD8+ T_mem cell	98
+T20	CD8+ T_mem cell	1
+T21	CD8+ T_mem cell	5
+T22	CD8+ T_mem cell	62
+T23	CD8+ T_mem cell	39
+T24	CD8+ T_mem cell	26
+T3	CD8+ T_mem cell	16
+T4	CD8+ T_mem cell	19
+T5	CD8+ T_mem cell	9
+T6	CD8+ T_mem cell	9
+T7	CD8+ T_mem cell	4
+T8	CD8+ T_mem cell	8
+T9	CD8+ T_mem cell	2
+GSE111672_PDAC_A	CD8+ T_naive cell	4
+GSE111672_PDAC_B	CD8+ T_naive cell	2
+GSM4293555	CD8+ T_naive cell	93
+P01	CD8+ T_naive cell	2
+P02	CD8+ T_naive cell	1
+P03	CD8+ T_naive cell	0
+P05	CD8+ T_naive cell	0
+P06	CD8+ T_naive cell	0
+P07	CD8+ T_naive cell	5
+P08	CD8+ T_naive cell	0
+P09	CD8+ T_naive cell	0
+P10	CD8+ T_naive cell	1
+PDAC_TISSUE_1	CD8+ T_naive cell	9
+PDAC_TISSUE_10	CD8+ T_naive cell	6
+PDAC_TISSUE_11A	CD8+ T_naive cell	6
+PDAC_TISSUE_11B	CD8+ T_naive cell	6
+PDAC_TISSUE_12	CD8+ T_naive cell	9
+PDAC_TISSUE_13	CD8+ T_naive cell	32
+PDAC_TISSUE_14	CD8+ T_naive cell	6
+PDAC_TISSUE_15	CD8+ T_naive cell	57
+PDAC_TISSUE_16	CD8+ T_naive cell	1
+PDAC_TISSUE_2	CD8+ T_naive cell	51
+PDAC_TISSUE_3	CD8+ T_naive cell	28
+PDAC_TISSUE_4	CD8+ T_naive cell	67
+PDAC_TISSUE_5	CD8+ T_naive cell	67
+PDAC_TISSUE_6	CD8+ T_naive cell	21
+PDAC_TISSUE_7	CD8+ T_naive cell	57
+PDAC_TISSUE_8	CD8+ T_naive cell	57
+PDAC_TISSUE_9	CD8+ T_naive cell	164
+pk201127	CD8+ T_naive cell	101
+pk210128	CD8+ T_naive cell	273
+pk210216	CD8+ T_naive cell	126
+pk210318	CD8+ T_naive cell	387
+T1	CD8+ T_naive cell	6
+T10	CD8+ T_naive cell	13
+T11	CD8+ T_naive cell	3
+T12	CD8+ T_naive cell	16
+T13	CD8+ T_naive cell	3
+T14	CD8+ T_naive cell	1
+T15	CD8+ T_naive cell	2
+T16	CD8+ T_naive cell	0
+T17	CD8+ T_naive cell	0
+T18	CD8+ T_naive cell	0
+T19	CD8+ T_naive cell	6
+T2	CD8+ T_naive cell	43
+T20	CD8+ T_naive cell	0
+T21	CD8+ T_naive cell	0
+T22	CD8+ T_naive cell	9
+T23	CD8+ T_naive cell	2
+T24	CD8+ T_naive cell	5
+T3	CD8+ T_naive cell	11
+T4	CD8+ T_naive cell	12
+T5	CD8+ T_naive cell	0
+T6	CD8+ T_naive cell	2
+T7	CD8+ T_naive cell	0
+T8	CD8+ T_naive cell	1
+T9	CD8+ T_naive cell	0
+GSE111672_PDAC_A	Innate Lymphoid cell	0
+GSE111672_PDAC_B	Innate Lymphoid cell	0
+GSM4293555	Innate Lymphoid cell	0
+P01	Innate Lymphoid cell	0
+P02	Innate Lymphoid cell	0
+P03	Innate Lymphoid cell	0
+P05	Innate Lymphoid cell	0
+P06	Innate Lymphoid cell	0
+P07	Innate Lymphoid cell	0
+P08	Innate Lymphoid cell	0
+P09	Innate Lymphoid cell	0
+P10	Innate Lymphoid cell	0
+PDAC_TISSUE_1	Innate Lymphoid cell	0
+PDAC_TISSUE_10	Innate Lymphoid cell	0
+PDAC_TISSUE_11A	Innate Lymphoid cell	0
+PDAC_TISSUE_11B	Innate Lymphoid cell	0
+PDAC_TISSUE_12	Innate Lymphoid cell	0
+PDAC_TISSUE_13	Innate Lymphoid cell	0
+PDAC_TISSUE_14	Innate Lymphoid cell	0
+PDAC_TISSUE_15	Innate Lymphoid cell	0
+PDAC_TISSUE_16	Innate Lymphoid cell	0
+PDAC_TISSUE_2	Innate Lymphoid cell	0
+PDAC_TISSUE_3	Innate Lymphoid cell	0
+PDAC_TISSUE_4	Innate Lymphoid cell	1
+PDAC_TISSUE_5	Innate Lymphoid cell	0
+PDAC_TISSUE_6	Innate Lymphoid cell	1
+PDAC_TISSUE_7	Innate Lymphoid cell	0
+PDAC_TISSUE_8	Innate Lymphoid cell	1
+PDAC_TISSUE_9	Innate Lymphoid cell	0
+pk201127	Innate Lymphoid cell	0
+pk210128	Innate Lymphoid cell	3
+pk210216	Innate Lymphoid cell	0
+pk210318	Innate Lymphoid cell	0
+T1	Innate Lymphoid cell	0
+T10	Innate Lymphoid cell	0
+T11	Innate Lymphoid cell	0
+T12	Innate Lymphoid cell	0
+T13	Innate Lymphoid cell	0
+T14	Innate Lymphoid cell	0
+T15	Innate Lymphoid cell	0
+T16	Innate Lymphoid cell	0
+T17	Innate Lymphoid cell	0
+T18	Innate Lymphoid cell	0
+T19	Innate Lymphoid cell	0
+T2	Innate Lymphoid cell	0
+T20	Innate Lymphoid cell	0
+T21	Innate Lymphoid cell	0
+T22	Innate Lymphoid cell	0
+T23	Innate Lymphoid cell	0
+T24	Innate Lymphoid cell	0
+T3	Innate Lymphoid cell	0
+T4	Innate Lymphoid cell	0
+T5	Innate Lymphoid cell	0
+T6	Innate Lymphoid cell	0
+T7	Innate Lymphoid cell	0
+T8	Innate Lymphoid cell	0
+T9	Innate Lymphoid cell	0
+GSE111672_PDAC_A	Macrophage	38
+GSE111672_PDAC_B	Macrophage	7
+GSM4293555	Macrophage	339
+P01	Macrophage	0
+P02	Macrophage	2
+P03	Macrophage	5
+P05	Macrophage	24
+P06	Macrophage	12
+P07	Macrophage	263
+P08	Macrophage	18
+P09	Macrophage	80
+P10	Macrophage	20
+PDAC_TISSUE_1	Macrophage	59
+PDAC_TISSUE_10	Macrophage	22
+PDAC_TISSUE_11A	Macrophage	397
+PDAC_TISSUE_11B	Macrophage	53
+PDAC_TISSUE_12	Macrophage	122
+PDAC_TISSUE_13	Macrophage	529
+PDAC_TISSUE_14	Macrophage	4
+PDAC_TISSUE_15	Macrophage	300
+PDAC_TISSUE_16	Macrophage	10
+PDAC_TISSUE_2	Macrophage	89
+PDAC_TISSUE_3	Macrophage	10
+PDAC_TISSUE_4	Macrophage	38
+PDAC_TISSUE_5	Macrophage	122
+PDAC_TISSUE_6	Macrophage	58
+PDAC_TISSUE_7	Macrophage	875
+PDAC_TISSUE_8	Macrophage	195
+PDAC_TISSUE_9	Macrophage	152
+pk201127	Macrophage	17
+pk210128	Macrophage	75
+pk210216	Macrophage	3
+pk210318	Macrophage	17
+T1	Macrophage	25
+T10	Macrophage	8
+T11	Macrophage	115
+T12	Macrophage	63
+T13	Macrophage	43
+T14	Macrophage	5
+T15	Macrophage	8
+T16	Macrophage	42
+T17	Macrophage	22
+T18	Macrophage	11
+T19	Macrophage	83
+T2	Macrophage	13
+T20	Macrophage	3
+T21	Macrophage	61
+T22	Macrophage	38
+T23	Macrophage	75
+T24	Macrophage	12
+T3	Macrophage	38
+T4	Macrophage	3
+T5	Macrophage	55
+T6	Macrophage	54
+T7	Macrophage	2
+T8	Macrophage	30
+T9	Macrophage	23
+GSE111672_PDAC_A	Monocyte	43
+GSE111672_PDAC_B	Monocyte	26
+GSM4293555	Monocyte	108
+P01	Monocyte	0
+P02	Monocyte	6
+P03	Monocyte	5
+P05	Monocyte	28
+P06	Monocyte	5
+P07	Monocyte	81
+P08	Monocyte	17
+P09	Monocyte	114
+P10	Monocyte	17
+PDAC_TISSUE_1	Monocyte	106
+PDAC_TISSUE_10	Monocyte	172
+PDAC_TISSUE_11A	Monocyte	320
+PDAC_TISSUE_11B	Monocyte	197
+PDAC_TISSUE_12	Monocyte	625
+PDAC_TISSUE_13	Monocyte	469
+PDAC_TISSUE_14	Monocyte	95
+PDAC_TISSUE_15	Monocyte	457
+PDAC_TISSUE_16	Monocyte	6
+PDAC_TISSUE_2	Monocyte	147
+PDAC_TISSUE_3	Monocyte	137
+PDAC_TISSUE_4	Monocyte	315
+PDAC_TISSUE_5	Monocyte	157
+PDAC_TISSUE_6	Monocyte	46
+PDAC_TISSUE_7	Monocyte	418
+PDAC_TISSUE_8	Monocyte	72
+PDAC_TISSUE_9	Monocyte	2481
+pk201127	Monocyte	33
+pk210128	Monocyte	365
+pk210216	Monocyte	10
+pk210318	Monocyte	83
+T1	Monocyte	38
+T10	Monocyte	8
+T11	Monocyte	112
+T12	Monocyte	213
+T13	Monocyte	34
+T14	Monocyte	17
+T15	Monocyte	8
+T16	Monocyte	46
+T17	Monocyte	78
+T18	Monocyte	2
+T19	Monocyte	101
+T2	Monocyte	19
+T20	Monocyte	5
+T21	Monocyte	149
+T22	Monocyte	75
+T23	Monocyte	53
+T24	Monocyte	6
+T3	Monocyte	39
+T4	Monocyte	41
+T5	Monocyte	32
+T6	Monocyte	24
+T7	Monocyte	5
+T8	Monocyte	33
+T9	Monocyte	46
+GSE111672_PDAC_A	Neutrophil	2
+GSE111672_PDAC_B	Neutrophil	11
+GSM4293555	Neutrophil	1
+P01	Neutrophil	0
+P02	Neutrophil	0
+P03	Neutrophil	0
+P05	Neutrophil	0
+P06	Neutrophil	0
+P07	Neutrophil	0
+P08	Neutrophil	0
+P09	Neutrophil	0
+P10	Neutrophil	0
+PDAC_TISSUE_1	Neutrophil	162
+PDAC_TISSUE_10	Neutrophil	211
+PDAC_TISSUE_11A	Neutrophil	60
+PDAC_TISSUE_11B	Neutrophil	228
+PDAC_TISSUE_12	Neutrophil	48
+PDAC_TISSUE_13	Neutrophil	79
+PDAC_TISSUE_14	Neutrophil	19
+PDAC_TISSUE_15	Neutrophil	54
+PDAC_TISSUE_16	Neutrophil	0
+PDAC_TISSUE_2	Neutrophil	26
+PDAC_TISSUE_3	Neutrophil	6
+PDAC_TISSUE_4	Neutrophil	107
+PDAC_TISSUE_5	Neutrophil	22
+PDAC_TISSUE_6	Neutrophil	3
+PDAC_TISSUE_7	Neutrophil	27
+PDAC_TISSUE_8	Neutrophil	14
+PDAC_TISSUE_9	Neutrophil	238
+pk201127	Neutrophil	5
+pk210128	Neutrophil	22
+pk210216	Neutrophil	3
+pk210318	Neutrophil	331
+T1	Neutrophil	0
+T10	Neutrophil	0
+T11	Neutrophil	0
+T12	Neutrophil	0
+T13	Neutrophil	0
+T14	Neutrophil	0
+T15	Neutrophil	0
+T16	Neutrophil	0
+T17	Neutrophil	0
+T18	Neutrophil	0
+T19	Neutrophil	0
+T2	Neutrophil	0
+T20	Neutrophil	0
+T21	Neutrophil	0
+T22	Neutrophil	0
+T23	Neutrophil	0
+T24	Neutrophil	0
+T3	Neutrophil	0
+T4	Neutrophil	0
+T5	Neutrophil	0
+T6	Neutrophil	0
+T7	Neutrophil	0
+T8	Neutrophil	0
+T9	Neutrophil	0
+GSE111672_PDAC_A	NK cell	15
+GSE111672_PDAC_B	NK cell	1
+GSM4293555	NK cell	7
+P01	NK cell	0
+P02	NK cell	1
+P03	NK cell	0
+P05	NK cell	1
+P06	NK cell	0
+P07	NK cell	1
+P08	NK cell	0
+P09	NK cell	0
+P10	NK cell	0
+PDAC_TISSUE_1	NK cell	169
+PDAC_TISSUE_10	NK cell	10
+PDAC_TISSUE_11A	NK cell	3
+PDAC_TISSUE_11B	NK cell	44
+PDAC_TISSUE_12	NK cell	39
+PDAC_TISSUE_13	NK cell	90
+PDAC_TISSUE_14	NK cell	21
+PDAC_TISSUE_15	NK cell	120
+PDAC_TISSUE_16	NK cell	3
+PDAC_TISSUE_2	NK cell	21
+PDAC_TISSUE_3	NK cell	53
+PDAC_TISSUE_4	NK cell	80
+PDAC_TISSUE_5	NK cell	56
+PDAC_TISSUE_6	NK cell	88
+PDAC_TISSUE_7	NK cell	56
+PDAC_TISSUE_8	NK cell	31
+PDAC_TISSUE_9	NK cell	93
+pk201127	NK cell	54
+pk210128	NK cell	41
+pk210216	NK cell	109
+pk210318	NK cell	179
+T1	NK cell	5
+T10	NK cell	29
+T11	NK cell	5
+T12	NK cell	6
+T13	NK cell	2
+T14	NK cell	2
+T15	NK cell	1
+T16	NK cell	0
+T17	NK cell	4
+T18	NK cell	1
+T19	NK cell	7
+T2	NK cell	12
+T20	NK cell	0
+T21	NK cell	3
+T22	NK cell	16
+T23	NK cell	15
+T24	NK cell	2
+T3	NK cell	9
+T4	NK cell	6
+T5	NK cell	3
+T6	NK cell	4
+T7	NK cell	1
+T8	NK cell	9
+T9	NK cell	1
+GSE111672_PDAC_A	NK-T_mature cell	0
+GSE111672_PDAC_B	NK-T_mature cell	0
+GSM4293555	NK-T_mature cell	1
+P01	NK-T_mature cell	0
+P02	NK-T_mature cell	0
+P03	NK-T_mature cell	0
+P05	NK-T_mature cell	0
+P06	NK-T_mature cell	0
+P07	NK-T_mature cell	0
+P08	NK-T_mature cell	0
+P09	NK-T_mature cell	0
+P10	NK-T_mature cell	0
+PDAC_TISSUE_1	NK-T_mature cell	1
+PDAC_TISSUE_10	NK-T_mature cell	0
+PDAC_TISSUE_11A	NK-T_mature cell	0
+PDAC_TISSUE_11B	NK-T_mature cell	0
+PDAC_TISSUE_12	NK-T_mature cell	0
+PDAC_TISSUE_13	NK-T_mature cell	0
+PDAC_TISSUE_14	NK-T_mature cell	0
+PDAC_TISSUE_15	NK-T_mature cell	0
+PDAC_TISSUE_16	NK-T_mature cell	0
+PDAC_TISSUE_2	NK-T_mature cell	0
+PDAC_TISSUE_3	NK-T_mature cell	0
+PDAC_TISSUE_4	NK-T_mature cell	0
+PDAC_TISSUE_5	NK-T_mature cell	0
+PDAC_TISSUE_6	NK-T_mature cell	1
+PDAC_TISSUE_7	NK-T_mature cell	0
+PDAC_TISSUE_8	NK-T_mature cell	1
+PDAC_TISSUE_9	NK-T_mature cell	1
+pk201127	NK-T_mature cell	0
+pk210128	NK-T_mature cell	0
+pk210216	NK-T_mature cell	0
+pk210318	NK-T_mature cell	0
+T1	NK-T_mature cell	0
+T10	NK-T_mature cell	0
+T11	NK-T_mature cell	0
+T12	NK-T_mature cell	0
+T13	NK-T_mature cell	5
+T14	NK-T_mature cell	0
+T15	NK-T_mature cell	0
+T16	NK-T_mature cell	0
+T17	NK-T_mature cell	0
+T18	NK-T_mature cell	0
+T19	NK-T_mature cell	1
+T2	NK-T_mature cell	0
+T20	NK-T_mature cell	0
+T21	NK-T_mature cell	0
+T22	NK-T_mature cell	0
+T23	NK-T_mature cell	1
+T24	NK-T_mature cell	1
+T3	NK-T_mature cell	0
+T4	NK-T_mature cell	0
+T5	NK-T_mature cell	5
+T6	NK-T_mature cell	6
+T7	NK-T_mature cell	0
+T8	NK-T_mature cell	0
+T9	NK-T_mature cell	2
+GSE111672_PDAC_A	NK-T_type-i cell	3
+GSE111672_PDAC_B	NK-T_type-i cell	4
+GSM4293555	NK-T_type-i cell	5
+P01	NK-T_type-i cell	0
+P02	NK-T_type-i cell	0
+P03	NK-T_type-i cell	0
+P05	NK-T_type-i cell	0
+P06	NK-T_type-i cell	0
+P07	NK-T_type-i cell	1
+P08	NK-T_type-i cell	0
+P09	NK-T_type-i cell	0
+P10	NK-T_type-i cell	0
+PDAC_TISSUE_1	NK-T_type-i cell	48
+PDAC_TISSUE_10	NK-T_type-i cell	1
+PDAC_TISSUE_11A	NK-T_type-i cell	8
+PDAC_TISSUE_11B	NK-T_type-i cell	6
+PDAC_TISSUE_12	NK-T_type-i cell	3
+PDAC_TISSUE_13	NK-T_type-i cell	17
+PDAC_TISSUE_14	NK-T_type-i cell	3
+PDAC_TISSUE_15	NK-T_type-i cell	30
+PDAC_TISSUE_16	NK-T_type-i cell	1
+PDAC_TISSUE_2	NK-T_type-i cell	2
+PDAC_TISSUE_3	NK-T_type-i cell	5
+PDAC_TISSUE_4	NK-T_type-i cell	11
+PDAC_TISSUE_5	NK-T_type-i cell	3
+PDAC_TISSUE_6	NK-T_type-i cell	26
+PDAC_TISSUE_7	NK-T_type-i cell	31
+PDAC_TISSUE_8	NK-T_type-i cell	8
+PDAC_TISSUE_9	NK-T_type-i cell	13
+pk201127	NK-T_type-i cell	12
+pk210128	NK-T_type-i cell	6
+pk210216	NK-T_type-i cell	15
+pk210318	NK-T_type-i cell	97
+T1	NK-T_type-i cell	1
+T10	NK-T_type-i cell	7
+T11	NK-T_type-i cell	4
+T12	NK-T_type-i cell	7
+T13	NK-T_type-i cell	2
+T14	NK-T_type-i cell	1
+T15	NK-T_type-i cell	4
+T16	NK-T_type-i cell	1
+T17	NK-T_type-i cell	0
+T18	NK-T_type-i cell	1
+T19	NK-T_type-i cell	3
+T2	NK-T_type-i cell	4
+T20	NK-T_type-i cell	0
+T21	NK-T_type-i cell	2
+T22	NK-T_type-i cell	4
+T23	NK-T_type-i cell	4
+T24	NK-T_type-i cell	4
+T3	NK-T_type-i cell	9
+T4	NK-T_type-i cell	8
+T5	NK-T_type-i cell	3
+T6	NK-T_type-i cell	2
+T7	NK-T_type-i cell	1
+T8	NK-T_type-i cell	5
+T9	NK-T_type-i cell	3
+GSE111672_PDAC_A	Plasma cell	0
+GSE111672_PDAC_B	Plasma cell	2
+GSM4293555	Plasma cell	11
+P01	Plasma cell	4
+P02	Plasma cell	0
+P03	Plasma cell	0
+P05	Plasma cell	3
+P06	Plasma cell	5
+P07	Plasma cell	10
+P08	Plasma cell	2
+P09	Plasma cell	0
+P10	Plasma cell	1
+PDAC_TISSUE_1	Plasma cell	15
+PDAC_TISSUE_10	Plasma cell	22
+PDAC_TISSUE_11A	Plasma cell	35
+PDAC_TISSUE_11B	Plasma cell	13
+PDAC_TISSUE_12	Plasma cell	30
+PDAC_TISSUE_13	Plasma cell	3
+PDAC_TISSUE_14	Plasma cell	6
+PDAC_TISSUE_15	Plasma cell	31
+PDAC_TISSUE_16	Plasma cell	5
+PDAC_TISSUE_2	Plasma cell	12
+PDAC_TISSUE_3	Plasma cell	9
+PDAC_TISSUE_4	Plasma cell	6
+PDAC_TISSUE_5	Plasma cell	14
+PDAC_TISSUE_6	Plasma cell	10
+PDAC_TISSUE_7	Plasma cell	904
+PDAC_TISSUE_8	Plasma cell	319
+PDAC_TISSUE_9	Plasma cell	14
+pk201127	Plasma cell	2
+pk210128	Plasma cell	4
+pk210216	Plasma cell	11
+pk210318	Plasma cell	1
+T1	Plasma cell	4
+T10	Plasma cell	3
+T11	Plasma cell	14
+T12	Plasma cell	54
+T13	Plasma cell	4
+T14	Plasma cell	1
+T15	Plasma cell	9
+T16	Plasma cell	17
+T17	Plasma cell	18
+T18	Plasma cell	1
+T19	Plasma cell	107
+T2	Plasma cell	21
+T20	Plasma cell	0
+T21	Plasma cell	14
+T22	Plasma cell	9
+T23	Plasma cell	122
+T24	Plasma cell	1
+T3	Plasma cell	6
+T4	Plasma cell	2
+T5	Plasma cell	0
+T6	Plasma cell	1
+T7	Plasma cell	1
+T8	Plasma cell	16
+T9	Plasma cell	3
+GSE111672_PDAC_A	Platelet	0
+GSE111672_PDAC_B	Platelet	0
+GSM4293555	Platelet	0
+P01	Platelet	0
+P02	Platelet	0
+P03	Platelet	0
+P05	Platelet	0
+P06	Platelet	0
+P07	Platelet	0
+P08	Platelet	0
+P09	Platelet	0
+P10	Platelet	0
+PDAC_TISSUE_1	Platelet	0
+PDAC_TISSUE_10	Platelet	1
+PDAC_TISSUE_11A	Platelet	0
+PDAC_TISSUE_11B	Platelet	0
+PDAC_TISSUE_12	Platelet	0
+PDAC_TISSUE_13	Platelet	0
+PDAC_TISSUE_14	Platelet	0
+PDAC_TISSUE_15	Platelet	1
+PDAC_TISSUE_16	Platelet	0
+PDAC_TISSUE_2	Platelet	0
+PDAC_TISSUE_3	Platelet	0
+PDAC_TISSUE_4	Platelet	1
+PDAC_TISSUE_5	Platelet	10
+PDAC_TISSUE_6	Platelet	1
+PDAC_TISSUE_7	Platelet	0
+PDAC_TISSUE_8	Platelet	1
+PDAC_TISSUE_9	Platelet	0
+pk201127	Platelet	0
+pk210128	Platelet	0
+pk210216	Platelet	0
+pk210318	Platelet	0
+T1	Platelet	0
+T10	Platelet	0
+T11	Platelet	0
+T12	Platelet	0
+T13	Platelet	0
+T14	Platelet	0
+T15	Platelet	0
+T16	Platelet	1
+T17	Platelet	0
+T18	Platelet	0
+T19	Platelet	0
+T2	Platelet	0
+T20	Platelet	0
+T21	Platelet	0
+T22	Platelet	0
+T23	Platelet	0
+T24	Platelet	0
+T3	Platelet	0
+T4	Platelet	0
+T5	Platelet	0
+T6	Platelet	0
+T7	Platelet	0
+T8	Platelet	0
+T9	Platelet	0
+GSE111672_PDAC_A	Stem cell	18
+GSE111672_PDAC_B	Stem cell	16
+GSM4293555	Stem cell	1
+P01	Stem cell	7
+P02	Stem cell	0
+P03	Stem cell	0
+P05	Stem cell	0
+P06	Stem cell	1
+P07	Stem cell	5
+P08	Stem cell	5
+P09	Stem cell	5
+P10	Stem cell	0
+PDAC_TISSUE_1	Stem cell	4
+PDAC_TISSUE_10	Stem cell	12
+PDAC_TISSUE_11A	Stem cell	0
+PDAC_TISSUE_11B	Stem cell	7
+PDAC_TISSUE_12	Stem cell	0
+PDAC_TISSUE_13	Stem cell	27
+PDAC_TISSUE_14	Stem cell	2
+PDAC_TISSUE_15	Stem cell	5
+PDAC_TISSUE_16	Stem cell	9
+PDAC_TISSUE_2	Stem cell	3
+PDAC_TISSUE_3	Stem cell	13
+PDAC_TISSUE_4	Stem cell	14
+PDAC_TISSUE_5	Stem cell	7
+PDAC_TISSUE_6	Stem cell	30
+PDAC_TISSUE_7	Stem cell	1022
+PDAC_TISSUE_8	Stem cell	304
+PDAC_TISSUE_9	Stem cell	16
+pk201127	Stem cell	2
+pk210128	Stem cell	8
+pk210216	Stem cell	1
+pk210318	Stem cell	1
+T1	Stem cell	0
+T10	Stem cell	5
+T11	Stem cell	22
+T12	Stem cell	2
+T13	Stem cell	2
+T14	Stem cell	1
+T15	Stem cell	3
+T16	Stem cell	1
+T17	Stem cell	1
+T18	Stem cell	0
+T19	Stem cell	10
+T2	Stem cell	1
+T20	Stem cell	1
+T21	Stem cell	0
+T22	Stem cell	3
+T23	Stem cell	10
+T24	Stem cell	2
+T3	Stem cell	1
+T4	Stem cell	2
+T5	Stem cell	0
+T6	Stem cell	1
+T7	Stem cell	0
+T8	Stem cell	0
+T9	Stem cell	0
+GSE111672_PDAC_A	T_reg cell	4
+GSE111672_PDAC_B	T_reg cell	0
+GSM4293555	T_reg cell	128
+P01	T_reg cell	2
+P02	T_reg cell	2
+P03	T_reg cell	0
+P05	T_reg cell	1
+P06	T_reg cell	0
+P07	T_reg cell	39
+P08	T_reg cell	0
+P09	T_reg cell	0
+P10	T_reg cell	0
+PDAC_TISSUE_1	T_reg cell	8
+PDAC_TISSUE_10	T_reg cell	38
+PDAC_TISSUE_11A	T_reg cell	2
+PDAC_TISSUE_11B	T_reg cell	14
+PDAC_TISSUE_12	T_reg cell	8
+PDAC_TISSUE_13	T_reg cell	21
+PDAC_TISSUE_14	T_reg cell	4
+PDAC_TISSUE_15	T_reg cell	28
+PDAC_TISSUE_16	T_reg cell	4
+PDAC_TISSUE_2	T_reg cell	1
+PDAC_TISSUE_3	T_reg cell	21
+PDAC_TISSUE_4	T_reg cell	3
+PDAC_TISSUE_5	T_reg cell	7
+PDAC_TISSUE_6	T_reg cell	23
+PDAC_TISSUE_7	T_reg cell	398
+PDAC_TISSUE_8	T_reg cell	151
+PDAC_TISSUE_9	T_reg cell	6
+pk201127	T_reg cell	6
+pk210128	T_reg cell	138
+pk210216	T_reg cell	77
+pk210318	T_reg cell	77
+T1	T_reg cell	3
+T10	T_reg cell	11
+T11	T_reg cell	24
+T12	T_reg cell	27
+T13	T_reg cell	2
+T14	T_reg cell	0
+T15	T_reg cell	17
+T16	T_reg cell	7
+T17	T_reg cell	2
+T18	T_reg cell	2
+T19	T_reg cell	52
+T2	T_reg cell	22
+T20	T_reg cell	0
+T21	T_reg cell	8
+T22	T_reg cell	56
+T23	T_reg cell	76
+T24	T_reg cell	10
+T3	T_reg cell	20
+T4	T_reg cell	31
+T5	T_reg cell	8
+T6	T_reg cell	10
+T7	T_reg cell	3
+T8	T_reg cell	14
+T9	T_reg cell	2

@@ -1,0 +1,15 @@
+# OS / editor cruft
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+
+# Data and cached objects (downloaded by scripts/00_download_data.R)
+01-InputData/
+02-DataAnalysis/
+data/*.rda
+
+# Machine-specific paths (copy .Renviron.example to .Renviron.local)
+.Renviron
+.Renviron.local

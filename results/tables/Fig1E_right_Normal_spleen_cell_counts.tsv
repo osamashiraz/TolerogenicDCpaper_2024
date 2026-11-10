@@ -1,0 +1,52 @@
+sample	cell_type	Freq
+normal_23	B_mem cell	244
+normal_30	B_mem cell	184
+normal_8	B_mem cell	2959
+normal_23	B_naive cell	163
+normal_30	B_naive cell	243
+normal_8	B_naive cell	500
+normal_23	CD141+ mDC_3	4
+normal_30	CD141+ mDC_3	4
+normal_8	CD141+ mDC_3	5
+normal_23	CD4+ T_mem cell	351
+normal_30	CD4+ T_mem cell	175
+normal_8	CD4+ T_mem cell	4
+normal_23	CD4+ T_naive cell	252
+normal_30	CD4+ T_naive cell	932
+normal_8	CD4+ T_naive cell	1150
+normal_23	CD8+ T cell	1
+normal_30	CD8+ T cell	3
+normal_8	CD8+ T cell	7
+normal_23	CD8+ T_mem cell	717
+normal_30	CD8+ T_mem cell	519
+normal_8	CD8+ T_mem cell	166
+normal_23	CD8+ T_naive cell	61
+normal_30	CD8+ T_naive cell	218
+normal_8	CD8+ T_naive cell	129
+normal_23	Erythrocyte	11
+normal_30	Erythrocyte	7
+normal_8	Erythrocyte	0
+normal_23	Macrophage	1
+normal_30	Macrophage	4
+normal_8	Macrophage	0
+normal_23	Monocyte	739
+normal_30	Monocyte	88
+normal_8	Monocyte	15
+normal_23	Neutrophil	63
+normal_30	Neutrophil	11
+normal_8	Neutrophil	0
+normal_23	NK cell	210
+normal_30	NK cell	204
+normal_8	NK cell	624
+normal_23	NK-T_type-i cell	78
+normal_30	NK-T_type-i cell	123
+normal_8	NK-T_type-i cell	106
+normal_23	Plasma cell	39
+normal_30	Plasma cell	12
+normal_8	Plasma cell	147
+normal_23	Stem cell	16
+normal_30	Stem cell	9
+normal_8	Stem cell	3
+normal_23	T_reg cell	8
+normal_30	T_reg cell	9
+normal_8	T_reg cell	47

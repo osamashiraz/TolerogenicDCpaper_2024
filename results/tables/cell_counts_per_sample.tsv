@@ -1,0 +1,162 @@
+sample	cell_type	Freq
+normal_23	B_mem cell	239
+normal_30	B_mem cell	193
+normal_8	B_mem cell	3125
+pdac_34	B_mem cell	42
+pdac_55	B_mem cell	640
+pdac_62	B_mem cell	1930
+pdac_64	B_mem cell	222
+normal_23	B_naive cell	143
+normal_30	B_naive cell	223
+normal_8	B_naive cell	307
+pdac_34	B_naive cell	48
+pdac_55	B_naive cell	270
+pdac_62	B_naive cell	646
+pdac_64	B_naive cell	96
+normal_23	CD141+ mDC	1
+normal_30	CD141+ mDC	0
+normal_8	CD141+ mDC	1
+pdac_34	CD141+ mDC	0
+pdac_55	CD141+ mDC	0
+pdac_62	CD141+ mDC	0
+pdac_64	CD141+ mDC	0
+normal_23	CD141+ mDC_1	0
+normal_30	CD141+ mDC_1	0
+normal_8	CD141+ mDC_1	0
+pdac_34	CD141+ mDC_1	1
+pdac_55	CD141+ mDC_1	11
+pdac_62	CD141+ mDC_1	14
+pdac_64	CD141+ mDC_1	5
+normal_23	CD141+ mDC_2	0
+normal_30	CD141+ mDC_2	0
+normal_8	CD141+ mDC_2	0
+pdac_34	CD141+ mDC_2	2
+pdac_55	CD141+ mDC_2	36
+pdac_62	CD141+ mDC_2	0
+pdac_64	CD141+ mDC_2	0
+normal_23	CD141+ mDC_3	0
+normal_30	CD141+ mDC_3	0
+normal_8	CD141+ mDC_3	0
+pdac_34	CD141+ mDC_3	12
+pdac_55	CD141+ mDC_3	178
+pdac_62	CD141+ mDC_3	20
+pdac_64	CD141+ mDC_3	2
+normal_23	CD4+ T_mem cell	389
+normal_30	CD4+ T_mem cell	357
+normal_8	CD4+ T_mem cell	10
+pdac_34	CD4+ T_mem cell	451
+pdac_55	CD4+ T_mem cell	186
+pdac_62	CD4+ T_mem cell	321
+pdac_64	CD4+ T_mem cell	899
+normal_23	CD4+ T_naive cell	320
+normal_30	CD4+ T_naive cell	733
+normal_8	CD4+ T_naive cell	1035
+pdac_34	CD4+ T_naive cell	1362
+pdac_55	CD4+ T_naive cell	608
+pdac_62	CD4+ T_naive cell	1623
+pdac_64	CD4+ T_naive cell	692
+normal_23	CD8+ T cell	4
+normal_30	CD8+ T cell	0
+normal_8	CD8+ T cell	6
+pdac_34	CD8+ T cell	2
+pdac_55	CD8+ T cell	28
+pdac_62	CD8+ T cell	2
+pdac_64	CD8+ T cell	4
+normal_23	CD8+ T_mem cell	581
+normal_30	CD8+ T_mem cell	615
+normal_8	CD8+ T_mem cell	176
+pdac_34	CD8+ T_mem cell	215
+pdac_55	CD8+ T_mem cell	1035
+pdac_62	CD8+ T_mem cell	468
+pdac_64	CD8+ T_mem cell	1612
+normal_23	CD8+ T_naive cell	53
+normal_30	CD8+ T_naive cell	128
+normal_8	CD8+ T_naive cell	152
+pdac_34	CD8+ T_naive cell	76
+pdac_55	CD8+ T_naive cell	963
+pdac_62	CD8+ T_naive cell	351
+pdac_64	CD8+ T_naive cell	701
+normal_23	Erythrocyte	19
+normal_30	Erythrocyte	17
+normal_8	Erythrocyte	0
+pdac_34	Erythrocyte	0
+pdac_55	Erythrocyte	1
+pdac_62	Erythrocyte	1
+pdac_64	Erythrocyte	0
+normal_23	Innate Lymphoid cell	10
+normal_30	Innate Lymphoid cell	6
+normal_8	Innate Lymphoid cell	0
+pdac_34	Innate Lymphoid cell	3
+pdac_55	Innate Lymphoid cell	2
+pdac_62	Innate Lymphoid cell	14
+pdac_64	Innate Lymphoid cell	8
+normal_23	Macrophage	0
+normal_30	Macrophage	3
+normal_8	Macrophage	1
+pdac_34	Macrophage	1
+pdac_55	Macrophage	346
+pdac_62	Macrophage	4
+pdac_64	Macrophage	0
+normal_23	Monocyte	799
+normal_30	Monocyte	103
+normal_8	Monocyte	14
+pdac_34	Monocyte	14
+pdac_55	Monocyte	359
+pdac_62	Monocyte	41
+pdac_64	Monocyte	4
+normal_23	Neutrophil	1
+normal_30	Neutrophil	0
+normal_8	Neutrophil	0
+pdac_34	Neutrophil	0
+pdac_55	Neutrophil	12
+pdac_62	Neutrophil	0
+pdac_64	Neutrophil	0
+normal_23	NK cell	115
+normal_30	NK cell	166
+normal_8	NK cell	461
+pdac_34	NK cell	258
+pdac_55	NK cell	324
+pdac_62	NK cell	336
+pdac_64	NK cell	162
+normal_23	NK-T_mature cell	3
+normal_30	NK-T_mature cell	0
+normal_8	NK-T_mature cell	107
+pdac_34	NK-T_mature cell	1
+pdac_55	NK-T_mature cell	6
+pdac_62	NK-T_mature cell	21
+pdac_64	NK-T_mature cell	2
+normal_23	NK-T_type-i cell	210
+normal_30	NK-T_type-i cell	158
+normal_8	NK-T_type-i cell	182
+pdac_34	NK-T_type-i cell	202
+pdac_55	NK-T_type-i cell	142
+pdac_62	NK-T_type-i cell	210
+pdac_64	NK-T_type-i cell	353
+normal_23	Plasma cell	37
+normal_30	Plasma cell	14
+normal_8	Plasma cell	146
+pdac_34	Plasma cell	11
+pdac_55	Plasma cell	212
+pdac_62	Plasma cell	68
+pdac_64	Plasma cell	10
+normal_23	Platelet	2
+normal_30	Platelet	1
+normal_8	Platelet	2
+pdac_34	Platelet	0
+pdac_55	Platelet	10
+pdac_62	Platelet	0
+pdac_64	Platelet	0
+normal_23	Stem cell	19
+normal_30	Stem cell	17
+normal_8	Stem cell	2
+pdac_34	Stem cell	2
+pdac_55	Stem cell	9
+pdac_62	Stem cell	4
+pdac_64	Stem cell	1
+normal_23	T_reg cell	14
+normal_30	T_reg cell	12
+normal_8	T_reg cell	138
+pdac_34	T_reg cell	28
+pdac_55	T_reg cell	74
+pdac_62	T_reg cell	252
+pdac_64	T_reg cell	12
